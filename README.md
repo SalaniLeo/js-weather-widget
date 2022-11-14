@@ -1,2 +1,2 @@
 # basic-weather-info
-weather widget for websites
+weather widget made with OpenWeatherApi
