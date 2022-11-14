@@ -118,7 +118,7 @@ function checkWeather() {
                         }
                     }    
                 }
-        
+
     var cloudy_sky
     var clear_sky
     var thunderstorm
@@ -225,7 +225,9 @@ function setColor(){
         }
     
     })
-        
+    
+    
+    
 //  .catch(err => alert(err));
  .catch(err => console.log(err));
   
