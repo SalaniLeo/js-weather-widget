@@ -1,4 +1,4 @@
-# basic-weather-info
+# basic-weather-widget
 <h3> Try it on <a href="https://salanileo.github.io/basic-weather-info/"> GitHub Pages </a></h3>
 <p>basic weather widget made with <a href="https://openweathermap.org/"> OpenWeatherMap </a></p>
 <img src="/preview.png" alt=""> 
